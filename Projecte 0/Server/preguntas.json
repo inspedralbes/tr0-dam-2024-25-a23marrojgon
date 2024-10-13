@@ -1,0 +1,232 @@
+{
+  "preguntes": [
+    {
+      "id": 1,
+      "pregunta": "¿Cuál es el nombre del anillo que Frodo debe destruir en 'El Señor de los Anillos'?",
+      "respostes": [
+        "El Anillo Único",
+        "El Anillo del Poder",
+        "El Anillo de Sauron",
+        "El Anillo de Morgoth"
+      ],
+      "resposta_correcta": 0,
+      "imatge": "https://hips.hearstapps.com/hmg-prod/images/el-senor-de-los-anillos-la-comunidad-del-anillo-pelicula-2001-1639853382.jpg?crop=1xw:0.9995061728395062xh;center,top&resize=2048:*"
+    },
+    {
+      "id": 2,
+      "pregunta": "¿En qué película aparece el personaje de 'Jack Sparrow'?",
+      "respostes": [
+        "Piratas del Caribe",
+        "Indiana Jones",
+        "El Hobbit",
+        "Los Piratas de Silicon Valley"
+      ],
+      "resposta_correcta": 0,
+      "imatge": "https://imagenes.elpais.com/resizer/v2/WSNIO64JNSGQ7UF4WPKAIOXJ7U.jpg?auth=62593337512f9dc8c49143e13f3695ff93122b644a4ade46230d058f0cd008cd&width=1960&height=1470&smart=true"
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Qué película animada de Disney presenta la canción 'Hakuna Matata'?",
+      "respostes": [
+        "El Rey León",
+        "Aladdin",
+        "La Sirenita",
+        "Frozen"
+      ],
+      "resposta_correcta": 0,
+      "imatge": "https://lvdneng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2018/12/19/node_509700/39936786/public/2018/12/19/B9717995000Z.1_20181219151051_000%2BG2SCL65U9.1-0.png.jpg?itok=sIh5Byb41545232806"
+    },
+    {
+      "id": 4,
+      "pregunta": "¿En qué película de ciencia ficción protagonizada por Keanu Reeves se usa la frase 'la píldora roja o la azul'?",
+      "respostes": [
+        "Matrix",
+        "Blade Runner",
+        "Terminator",
+        "Tron"
+      ],
+      "resposta_correcta": 0,
+      "imatge": "https://media.licdn.com/dms/image/C4E12AQHNQgVq-GuflQ/article-cover_image-shrink_600_2000/0/1612268041503?e=2147483647&v=beta&t=bTImCJImxLwWnSTQOj1NSeUI3EpP6JRnCuEBARLVlk4"
+    },
+    {
+      "id": 5,
+      "pregunta": "¿Cuál es la primera película del Universo Cinematográfico de Marvel (MCU)?",
+      "respostes": [
+        "Iron Man",
+        "El increíble Hulk",
+        "Capitán América: El primer vengador",
+        "Thor"
+      ],
+      "resposta_correcta": 0,
+      "imatge": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2017/05/superheroes-marvel.jpg?tf=3840x"
+    },
+    {
+      "id": 6,
+      "pregunta": "¿En qué película de Pixar los juguetes cobran vida cuando los humanos no los ven?",
+      "respostes": [
+        "Toy Story",
+        "Monstruos, S.A.",
+        "Los Increíbles",
+        "Cars"
+      ],
+      "resposta_correcta": 0,
+      "imatge": "https://www.elespectador.com/resizer/v2/52CGLQ34SZBCBM7JGCQJUXXGKA.jpg?auth=f55997fd0006efaa28d1c5708e723b25568086a301909ec4e7d41485a2130c12&width=920&height=613&smart=true&quality=60"
+    },
+    {
+      "id": 7,
+      "pregunta": "¿Qué actor interpretó al famoso agente secreto 'James Bond' en 'Casino Royale'?",
+      "respostes": [
+        "Daniel Craig",
+        "Pierce Brosnan",
+        "Sean Connery",
+        "Roger Moore"
+      ],
+      "resposta_correcta": 0,
+      "imatge": "https://hips.hearstapps.com/hmg-prod/images/daniel-craig-james-bond-movies-1633250982.jpg?crop=0.625xw:1.00xh;0.188xw,0&resize=1200:*"
+    },
+    {
+      "id": 8,
+      "pregunta": "¿En qué película animada aparece el villano 'Scar'?",
+      "respostes": [
+        "El Rey León",
+        "Hércules",
+        "Aladdin",
+        "Mulán"
+      ],
+      "resposta_correcta": 0,
+      "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb6dMZzzWVcJflRfPsUG2RhEC_9yvekrBjmA&s"
+    },
+    {
+      "id": 9,
+      "pregunta": "¿En qué película de Marvel aparece por primera vez 'Black Panther'?",
+      "respostes": [
+        "Capitán América: Civil War",
+        "Vengadores: Endgame",
+        "Black Panther",
+        "Spider-Man: Homecoming"
+      ],
+      "resposta_correcta": 0,
+      "imatge": "https://img.asmedia.epimg.net/resizer/v2/NES3Y5YCTVO7NOEAT3XXFXY7YE.jpg?auth=890db8e3ff3eb27dcb77234275b12c9ea6a373d82edf2d4af132e7d055a74aaa&width=360&height=203&smart=true"
+    },
+    {
+      "id": 10,
+      "pregunta": "¿Qué actriz interpretó a 'Katniss Everdeen' en 'Los Juegos del Hambre'?",
+      "respostes": [
+        "Jennifer Lawrence",
+        "Emma Watson",
+        "Kristen Stewart",
+        "Shailene Woodley"
+      ],
+      "resposta_correcta": 0,
+      "imatge": "https://es.web.img2.acsta.net/medias/nmedia/18/86/46/05/19945375.jpg"
+    },
+    {
+      "id": 11,
+      "pregunta": "¿Qué famosa saga de películas incluye los personajes 'Neo' y 'Trinity'?",
+      "respostes": [
+        "Matrix",
+        "Star Wars",
+        "Terminator",
+        "Blade Runner"
+      ],
+      "resposta_correcta": 0,
+      "imatge": "https://www.eldebate.com/files/article_social/files/fp/uploads/2021/12/24/61c5a73aca58e.r_d.890-316-7580.webp"
+    },
+    {
+      "id": 12,
+      "pregunta": "¿Cuál es el nombre del villano principal en 'Los Vengadores: Infinity War'?",
+      "respostes": [
+        "Thanos",
+        "Loki",
+        "Ultron",
+        "Red Skull"
+      ],
+      "resposta_correcta": 0,
+      "imatge": "https://img.redbull.com/images/c_limit,w_1500,h_1000/f_auto,q_auto/redbullcom/2018/04/23/e4a3d8a5-2c44-480a-b300-1b2b03e205a5/avengers-infinity-war-poster"
+    },
+    {
+      "id": 13,
+      "pregunta": "¿Qué película de Pixar presenta la frase 'Hasta el infinito y más allá'?",
+      "respostes": [
+        "Toy Story",
+        "Wall-E",
+        "Cars",
+        "Ratatouille"
+      ],
+      "resposta_correcta": 0,
+      "imatge": "https://womenaliaimages.blob.core.windows.net/womenaliathumbnails/32a9f7c1df701a77956529787732ff9a855B1D/32a9f7c1df701a77956529787732ff9a855B1D_xl.jpg"
+    },
+    {
+      "id": 14,
+      "pregunta": "¿En qué película dirigida por James Cameron aparece el planeta 'Pandora'?",
+      "respostes": [
+        "Avatar",
+        "Aliens",
+        "Titanic",
+        "Terminator 2"
+      ],
+      "resposta_correcta": 0,
+      "imatge": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2018/05/02/5fa4385107259.jpeg"
+    },
+    {
+      "id": 15,
+      "pregunta": "¿Quién interpretó a 'Wolverine' en la saga de X-Men?",
+      "respostes": [
+        "Hugh Jackman",
+        "Chris Hemsworth",
+        "Ryan Reynolds",
+        "Robert Downey Jr."
+      ],
+      "resposta_correcta": 0,
+      "imatge": "https://i0.wp.com/www.tomosygrapas.com/wp-content/uploads/2024/03/BANNER-XMEN-97.png?fit=1280%2C720&ssl=1"
+    },
+    {
+      "id": 16,
+      "pregunta": "¿En qué película aparece el superhéroe 'Capitán América' empuñando el martillo de Thor?",
+      "respostes": [
+        "Vengadores: Endgame",
+        "Vengadores: Infinity War",
+        "Thor: Ragnarok",
+        "Capitán América: El soldado de invierno"
+      ],
+      "resposta_correcta": 0,
+      "imatge": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2014/11/406746-cine-superheroes-critica-capitan-america-primer-vengador.jpg?tf=3840x"
+    },
+    {
+      "id": 17,
+      "pregunta": "¿Qué famosa película de ciencia ficción tiene la frase 'Yo soy tu padre'?",
+      "respostes": [
+        "Star Wars: Episodio V - El Imperio Contraataca",
+        "Matrix",
+        "Blade Runner",
+        "Alien"
+      ],
+      "resposta_correcta": 0,
+      "imatge": "https://i.ytimg.com/vi/bI5kutUyDfM/sddefault.jpg"
+    },
+    {
+      "id": 18,
+      "pregunta": "¿En qué película de Tarantino aparecen los personajes 'Vincent Vega' y 'Jules Winnfield'?",
+      "respostes": [
+        "Pulp Fiction",
+        "Reservoir Dogs",
+        "Bastardos sin gloria",
+        "Django sin cadenas"
+      ],
+      "resposta_correcta": 0,
+      "imatge": "https://static.wikia.nocookie.net/p__/images/d/d6/FEE4C9AB-D1AC-490D-8E44-A16EBEBD3D68.jpeg/revision/latest?cb=20181203223938&path-prefix=protagonist"
+    },
+    {
+      "id": 19,
+      "pregunta": "¿En qué película aparece el personaje 'Forrest Gump' corriendo a través de Estados Unidos?",
+      "respostes": [
+        "Forrest Gump",
+        "Cadena perpetua",
+        "Philadelphia",
+        "El náufrago"
+      ],
+      "resposta_correcta": 0,
+      "imatge": "https://media.es.wired.com/photos/6679bb407faf643236b6024c/4:3/w_1152,h_864,c_limit/Forrest%20Gump.jpg"
+    }
+  ]
+}
